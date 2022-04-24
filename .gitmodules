@@ -1,0 +1,3 @@
+[submodule "GitSubmodule-Example-Backend/www"]
+	path = GitSubmodule-Example-Backend/www
+	url = https://github.com/benehmb/GitSubmodule-Example-Frontend.git
